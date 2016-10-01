@@ -6,5 +6,6 @@ The FE project to the CloneBNB administration area
 ## Setting environment
 - ``npm install``
 - ``gulp``
+
 ## Running
 - ``gulp watch``

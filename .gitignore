@@ -1,2 +1,6 @@
 node_modules
 .idea
+css/*
+!css/empty
+js/*
+!js/empty

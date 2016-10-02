@@ -13,7 +13,9 @@ gulp.task('css', function() {
         ).on('error', sass.logError))
         .pipe(gulp.dest('./css/'));
 });
-
+gulp.task('install-js', function() {
+  gulp   
+})
 gulp.task('watch',function() {
     gulp.watch('sass/**/*.scss',['default']);
 });
